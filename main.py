@@ -1,4 +1,4 @@
-VALID_COLORS = ['blue', 'yellow', 'red']
+VALID_COLORS = ['blue', 'yellow', 'red', 'green']
 
 
 def print_colors():
